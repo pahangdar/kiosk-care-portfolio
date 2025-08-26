@@ -56,7 +56,7 @@ This system allows hospital staff to manage and monitor patient check-ins using 
 🗂 [Download from Google Drive](https://drive.google.com/file/d/1McYCEcU6zqjVJ1lkkWsUOKuDG8tISn63/view?usp=drive_link)
 
 📸 **System Architecture Diagram**  
-![Architecture Diagram]()
+![Architecture Diagram](docs/SystemArchitectureDiagram.jpg)
 
 
 ---
