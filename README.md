@@ -25,7 +25,7 @@ This system allows hospital staff to manage and monitor patient check-ins using 
 ## 📂 Repositories & Source Code
 
 🔹 **Main Desktop App (Delphi)**  
-👉 [Reception App (Delphi)](https://github.com/pahangdar/kiosk-care-desktop-delphi/tree/api-integration)
+👉 [Reception App (Delphi)](https://github.com/pahangdar/kiosk-care-desktop-delphi/blob/api-integration/README.md)
 
 🔹 **WebSocket Server (Node.js)**  
 👉 [WebSocket Server (Node.js)](https://github.com/pahangdar/kiosk-care-websocket-server-node.git)
